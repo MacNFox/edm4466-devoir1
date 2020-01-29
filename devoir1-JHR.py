@@ -1,0 +1,18 @@
+### BONJOUR DAVID, ICI JEAN-HUGUES ROY
+### TOUS MES COMMENTAIRES SERONT EN MAJUSCULES ET PRÉCÉDÉS DE 3 # (HASHTAGS)
+
+# David Masse (MacNFox)
+# coding:utf-8
+url = "https://montrealcampus.ca?p="
+# Pour concaténer : 
+# for numeros in range (20000,30151):
+#     print (url+str(numeros))
+l1=[]
+for numeros in range (20000,30151):
+    l1.append(url+str(numeros))
+print(l1)
+print(len(l1))
+
+### BRAVO DAVID! EXCELLENT CODE, SIMPLE ET EFFICACE, QUI FAIT EXACTEMENT CE QUI ÉTAIT RECHERCHÉ
+### COMME JE L'AI ÉCRIT À JESSICA, UN PEU PLUS DE COMMENTAIRES AURAIENT ÉTÉ APPRÉCIÉS POUR COMPRENDRE CE QUE TU AS FAIT;
+### C'EST UNE BONNE HABITUDE À PRENDRE POUR PERMETTRE AUX GENS AVEC QUI TU TRAVAILLES DE POUVOIR LIRE TON CODE.
